@@ -9,3 +9,6 @@ Returns the count of subarrays that add upto the target number
 Variation 3:  
 Given an unsorted array of integers, find a pair with given sum in it
 
+Variation 4:  
+Given an unsorted array of integers, find a pair with given sum in it -- Solution using Sorting
+Time Complexity == O(nlog(n))
