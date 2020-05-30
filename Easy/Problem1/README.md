@@ -10,5 +10,9 @@ Variation 3:
 Given an unsorted array of integers, find a pair with given sum in it
 
 Variation 4:  
-Given an unsorted array of integers, find a pair with given sum in it -- Solution using Sorting
+Given an unsorted array of integers, find a pair with given sum in it -- _Solution using Sorting_  
 Time Complexity == O(nlog(n))
+
+Variation 5:  
+Given an unsorted array of integers, find a pair with given sum in it -- _Solution using Hashing_  
+Time Complexity == O(n)  
